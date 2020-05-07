@@ -1,0 +1,26 @@
+# key: tplasgn
+# name: Assignment Template
+# --
+\documentclass{article}
+\usepackage{amsmath, amsthm, amssymb, calrsfs, wasysym, verbatim, bbm, color, graphics, geometry}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{esvect}
+\usepackage{mathtools}
+\usepackage{bm}
+\usepackage{latexsym}
+\usepackage{mathrsfs}
+\usepackage{amsfonts}
+\usepackage[mathscr]{euscript}
+\usepackage{enumitem}
+
+\title{${1:Assignment Title}}
+\author{${2:Cao Yuji 117010007}}
+
+\begin{document}
+
+\maketitle
+
+\section{Question 1}
+
+\end{document}

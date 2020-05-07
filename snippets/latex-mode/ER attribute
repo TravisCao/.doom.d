@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: ER attribute
+# key: era
+# --
+
+\node[attribute] (${1:label}) [$2=of $3] {${4:name}} edge ($5);$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: enumi
+# key: enumi
+# --
+\begin{enumerate}[label=(\roman*)]
+    \item $1
+\end{enumerate}$0

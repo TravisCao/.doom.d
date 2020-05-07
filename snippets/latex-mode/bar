@@ -1,0 +1,4 @@
+# key: bar
+# name: bar
+# --
+\overbar{$1}$0

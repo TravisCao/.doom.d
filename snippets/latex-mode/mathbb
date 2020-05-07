@@ -1,0 +1,4 @@
+# key: mbb
+# name: mathbb
+# --
+\mathbb{$1}$0
