@@ -9,7 +9,7 @@
 ;; found in modules/README.org.
 
 (doom! :input
-       ;; chinese
+       chinese
        ;;japanese
 
        :completion
@@ -73,7 +73,7 @@
        eshell            ; a consistent, cross-platform shell (WIP)
        ;;shell             ; a terminal REPL for Emacs
        ;;term              ; terminals in Emacs
-       ;; vterm             ; another terminals in Emacs
+       vterm             ; another terminals in Emacs
 
        :checkers
        syntax            ; tasing you for every semicolon you forget

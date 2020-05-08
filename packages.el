@@ -18,3 +18,4 @@
 (package! evil-matchit)
 (package! pandoc-mode)
 (package! company-box)
+(package! posframe)
